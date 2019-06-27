@@ -1,3 +1,4 @@
 # Quasar App
 
-> WIP
+ Run Proyect 
+ - npm install
