@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "976011450121",
+    "firebase_url": "https://mitsui-citas-android.firebaseio.com",
+    "project_id": "mitsui-citas-android",
+    "storage_bucket": "mitsui-citas-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976011450121:android:f111284ee179f3b1",
+        "android_client_info": {
+          "package_name": "mitsui.citas.mb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976011450121-vdn6bv34ckasnedl39k5o054akadrr57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyq2E-zOR_X18ivTacqypyxZoQyC_61cQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
